@@ -24,6 +24,8 @@ public class Product {
         this.imageUrl = imageUrl;
     }
 
+    public Product() {}
+
     public String getName() {
         return name;
     }
